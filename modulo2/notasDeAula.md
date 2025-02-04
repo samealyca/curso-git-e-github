@@ -13,8 +13,8 @@
 - git remote add origin url_repositorio-remoto
     : Víncula o repositório local a um repositório remoto
 - git clone url_repositorio-remoto
-    : Faz o download fr um repositório remoto e cria uma cópia local
-- <strong>*git add*</strong>
+    : Faz o download de um repositório remoto e cria uma cópia local
+- git add
     - git add .
         : Adiciona todas as alterações (novos arquivos, modificações e excluisões) ao staging
     - git add {caminho_arquivo}
