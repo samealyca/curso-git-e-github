@@ -20,4 +20,3 @@
     : muda para a branch
 - git checkout -b < nome-branch >
     : cria uma nova branch e muda para essa nova ramificação
-
